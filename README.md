@@ -53,7 +53,6 @@ return 0;
 }
 ```
 # OUTPUT:
-
 <img width="652" height="268" alt="Screenshot 2025-09-26 091751" src="https://github.com/user-attachments/assets/6385a968-e99b-4ee7-8271-626053150377" />
 
 # RESULT:
